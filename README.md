@@ -135,7 +135,7 @@
 - counter_electrode：只写原文明确给出的对电极/阴离子电极材料；保留原文术语，如阴极、阳极、对电极、阴离子电极；未报道写“未报道/未找到”。
 - linkage_beta-ketoenamine、linkage_imine、linkage_pyrazine、linkage_pyridinium：分别写“是/否/未报道”，只依据原文结构描述。
 - is_carbonized：是/否/未报道；carbonization_temp_C：数值+°C，或未报道/未找到。
-- substrate_present：是/否/未报道；substrate_graphene_go、substrate_cnt、substrate_mof、substrate_mxene：分别写是/否/未报道；substrate_loading_value、substrate_loading_unit、substrate_loading_basis：数值+单位+依据，或未报道/未找到。
+- substrate_present：是/否/未报道；substrate_graphene_go、substrate_cnt、substrate_mof、substrate_mxene：分别写是/否/未报道；substrate_loading_value、substrate_loading_unit：数值+单位，或未报道/未找到；substrate_loading_basis：只能从以下类别中选择其一——synthesis_input（合成投料量）、material_composition（最终材料组成比例）、electrode_loading（电极上负载量），或未报道/未找到。
 - physical_additive_wt_percent：数值+wt%，或未报道/未找到；physical_additive_type_CB、physical_additive_type_Super P、physical_additive_type_none：分别写是/否/未报道；若为其他导电剂，在notes写类型。
 - binder_PVDF_wt_percent：数值+wt%，或未报道/未找到。
 - device_architecture：照原文写HCDI、CDI、MCDI或其他；多个条件分别行。
